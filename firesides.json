@@ -1,5 +1,20 @@
 [   
-
+    {
+    "id": 105,
+    "title": "A look into Dev_Agent",
+    "author": {
+        "login": "Anish-CodeDev",
+        "html_url": "https://github.com/Anish-CodeDev"
+    },
+    "created_at": "2026-11-07T08:45:18Z",
+    "html_url": "https://github.com/orgs/homebrew-foss/discussions/105",
+    "body": "An overview of Dev_Agent, an AI agent that builds software by spawning its own specialist sub-agents. The talk covers its features, tech stack and architecture, with a demo and a look at planned improvements.",
+    "youtubeId": "Tihj9VaUExY",
+    "comments": 0,
+    "reactions": {
+        "+1": 0
+    }
+    },
     {
     "id": 100,
     "title": "Serverless Computing and AWS Lambda",
