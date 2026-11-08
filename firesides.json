@@ -15,6 +15,25 @@
         "+1": 0
     }
     },
+
+    {
+    "id": 102,
+    "title": "ANTLR A Compiler for Compilers",
+    "author": {
+        "login": "planksconstant",
+        "html_url": "https://github.com/planksconstant"
+    },
+    "created_at": "2026-11-07T08:45:18Z",
+    "html_url": "https://github.com/orgs/homebrew-foss/discussions/106",
+    "body": "This fireside explored ANTLR a compiler toolchain covering Context free grammar and  ANTLR Internals",
+    "youtubeId": "RkZHaYTMOFA",
+    "comments": 0,
+    "reactions": {
+        "+1": 0
+    }
+    },
+
+
     {
     "id": 100,
     "title": "Serverless Computing and AWS Lambda",
