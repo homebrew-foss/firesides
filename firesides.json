@@ -42,7 +42,7 @@
         "html_url": "https://github.com/Navya2022"
     },
     "created_at": "2026-08-10T17:46:12Z",
-    "html_url": "https://github.com/orgs/homebrew-ec-foss/discussions/100",
+    "html_url": "https://github.com/orgs/homebrew-foss/discussions/100",
     "body": "This talk explored Serverless Computing and AWS Lambda, covering its core concepts, architecture, use cases, advantages, and challenges.",
     "youtubeId": "HgsO2SY8Nzc",
     "comments": 0,
@@ -58,7 +58,7 @@
         "html_url": "https://github.com/mittal-ayushi"
     },
     "created_at": "2026-08-05T00:00:00.000Z",
-    "html_url": "https://github.com/orgs/homebrew-ec-foss/discussions/99",
+    "html_url": "https://github.com/orgs/homebrew-foss/discussions/99",
     "body": "The fireside covered how to visualize datasets, identify redundant data, and analyze trends to draw meaningful conclusions based on data.",
     "youtubeId": "K3JEeaIc4S4",
     "comments": 0,
@@ -74,7 +74,7 @@
             "html_url": "https://github.com/LakshitTalreja"
         },
         "created_at": "2026-04-17T21:12:00.000Z",
-        "html_url": "https://github.com/orgs/homebrew-ec-foss/discussions/97",
+        "html_url": "https://github.com/orgs/homebrew-foss/discussions/97",
         "body": "Exploring Mixture of experts and the deepseek models while also understanding model collapse and the fixes deepseek used to make a model that broke the internet.",
         "youtubeId": "bpAGvsyOTSw",
         "comments": 0,
@@ -90,7 +90,7 @@
             "html_url": "https://github.com/NorSomething"
         },
         "created_at": "2026-04-10T14:08:59Z",
-        "html_url": "https://github.com/orgs/homebrew-ec-foss/discussions/96",
+        "html_url": "https://github.com/orgs/homebrew-foss/discussions/96",
         "body": "This talk explored Terminal User Interfaces (TUIs) going through terminal rendering, ANSI escape sequences, the PTY, raw mode and input handling and how tools like htop, vim etc really work under the hood.",
         "youtubeId": "PT1hTxpcCLk",
         "comments": 0,
@@ -106,7 +106,7 @@
             "html_url": "https://github.com/SaankLeo"
         },
         "created_at": "2026-04-09T12:02:00.000Z",
-        "html_url": "https://github.com/orgs/homebrew-ec-foss/discussions/95",
+        "html_url": "https://github.com/orgs/homebrew-foss/discussions/95",
         "body": "Understanding Dirty COW and Linux privilege escalation.",
         "youtubeId": "woQI1TsA110",
         "comments": 0,
@@ -123,7 +123,7 @@
             "html_url": "https://github.com/Ieatfingies"
         },
         "created_at": "2026-02-13T07:30:00.000Z",
-        "html_url": "https://github.com/orgs/homebrew-ec-foss/discussions/93",
+        "html_url": "https://github.com/orgs/homebrew-foss/discussions/93",
         "body": "A brief talk on the revolutionary 2017 paper on Attention and Transformer Architecture.",
         "youtubeId": "JIeFOtUgD4Y",
         "comments": 0,
@@ -139,7 +139,7 @@
             "html_url": "https://github.com/prabodhbharadwaj1211-bit"
         },
         "created_at": "2026-02-02T01:40:00Z",
-        "html_url": "https://github.com/orgs/homebrew-ec-foss/discussions/90",
+        "html_url": "https://github.com/orgs/homebrew-foss/discussions/90",
         "body": "An overview on NLCPAs, how they work and where they are used.",
         "youtubeId": "eTsNtSnOP7U",
         "comments": 0,
@@ -155,7 +155,7 @@
             "html_url": "https://github.com/twilightily"
         },
         "created_at": "2026-02-01T01:20:00Z",
-        "html_url": "https://github.com/orgs/homebrew-ec-foss/discussions/89",
+        "html_url": "https://github.com/orgs/homebrew-foss/discussions/89",
         "youtubeId": "UETijp3eaIM",
         "body": "This is a fireside about a few of the laws of UX! They're general conventions that shape the design of user interface of any application and were formulated by researchers through profound study of human behavior i.e. user experience.The great thing about these laws however is that they aren't confined to just UIs. We see this concept very well in the fireside.",
         "comments": 0,
@@ -171,7 +171,7 @@
             "html_url": "https://github.com/AkagamiShankz007"
         },
         "created_at": "2026-01-29T02:28:00Z",
-        "html_url": "https://github.com/orgs/homebrew-ec-foss/discussions/88",
+        "html_url": "https://github.com/orgs/homebrew-foss/discussions/88",
         "youtubeId": "8o7w_h_qtbU",
         "body": "Today at the 3rd session of Firesides by HSP, We dive into the depths of Web-socketing!\n\nGetting in touch with the History behind the existence of Web sockets and how they aid in Real-Time communication in today's world.\n\nA comparison: HTTP and Websockets - same? different? who's the better of the latter!Websocket applications and popularly used libraries like Socket.io and WebRTC",
         "comments": 0,
@@ -187,7 +187,7 @@
             "html_url": "https://github.com/thisisselva18"
         },
         "created_at": "2026-01-22T03:43:00Z",
-        "html_url": "https://github.com/orgs/homebrew-ec-foss/discussions/87",
+        "html_url": "https://github.com/orgs/homebrew-foss/discussions/87",
         "youtubeId": "fTt-6upHbwg",
         "body": "In this 2nd Fireside session for HSP '26 in collaboration with ACM PESUECC, @thisisselva18 discusses about Open Source Mapping and how mapping platforms powered by OpenStreetMap could be a worthy alternative to proprietary mapping platforms available on the internet, giving users and its contributors the flexibility of customizing map features at their own will.\n\nSarah Kazi from ACM PESUECC talks about Indic Dictionaries and existing solutions like Olam, Alar and Dictpress. It revolves around everything leading up to it and the algorithms used to make them specifically tailored to Indian languages. The talk also deals with the reasoning behind the latest update in Dictpress which is a complete switch from Go to Rust. Lastly, it also includes the areas that have scope for future enhancements and how everyone who's interested in it could go ahead and make amazing contributions.\n\nCheck out the slide decks here!",
         "comments": 0,
@@ -203,7 +203,7 @@
             "html_url": "https://github.com/andy34g7"
         },
         "created_at": "2026-01-08T01:46:00Z",
-        "html_url": "https://github.com/orgs/homebrew-ec-foss/discussions/86",
+        "html_url": "https://github.com/orgs/homebrew-foss/discussions/86",
         "youtubeId": "0NFRTCPBmgk",
         "body": "In this first Fireside session for HSP '26, @Andy34G7 shares real-world lessons from adopting AI in practice. From experimentation to real world impact, this session dives into what worked, what didn't, and the key takeaways for people looking to integrate AI into their workflows.\n\nWhether you're a student, builder, or professional curious about applying AI beyond the hype, this fireside chat offers practical insights from projects around the world.",
         "comments": 0,
