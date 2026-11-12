@@ -33,6 +33,23 @@
     }
     },
 
+    {
+    "id": 101,
+    "title": "Bharani",
+    "author": {
+        "login": "kurj17",
+        "html_url": "https://github.com/kurj17"
+    },
+    "created_at": "2026-09-03T07:15:00Z",
+    "html_url": "https://github.com/orgs/homebrew-foss/discussions/110",
+    "body": "This fireside explored Bharani, a self-hosted personal cloud storage system, covering its architecture, file management, user authentication, and data backup mechanisms.",
+    "youtubeId": "lAczsvwcoCQ",
+    "comments": 0,
+    "reactions": {
+        "+1": 0
+    }
+    },
+
 
     {
     "id": 100,
