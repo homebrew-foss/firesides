@@ -1,5 +1,22 @@
 [   
     {
+    "id": 109,
+    "title": "Reflections on Trusting Trust",
+    "author": {
+        "login": "codexagon",
+        "html_url": "https://github.com/codexagon"
+    },
+    "created_at": "2026-11-11T18:32:20Z",
+    "html_url": "https://github.com/orgs/homebrew-foss/discussions/109",
+    "body": "This talk explored how a compiler can be rigged to inject a self-perpetuating vulnerability into any program it compiles, without leaving any trace in the source code.",
+    "youtubeId": "q9_el0gk1js",
+    "comments": 0,
+    "reactions": {
+        "+1": 0
+    }
+    },
+
+    {
     "id": 105,
     "title": "A look into Dev_Agent",
     "author": {
